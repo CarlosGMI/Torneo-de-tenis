@@ -11,5 +11,5 @@ Realizada con en lenguaje de programación Java y el entorno de desarrollo NetBe
 **=======================================**  
 
 **Desarrolladores:**.  
-Maldonado, Carlos.
+Maldonado, Carlos.  
 Rafalli, José.
